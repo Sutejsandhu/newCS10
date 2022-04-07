@@ -42,15 +42,15 @@ public class myInitials
 l
 l
 l--------
-	        l
-	        l
+	 l
+	 l
 l--------
  -------
 l
 l
 l--------
-	        l
-	        l
+	 l
+	 l
 l--------
 
  
