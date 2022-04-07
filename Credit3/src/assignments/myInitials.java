@@ -42,15 +42,25 @@ public class myInitials
 l
 l
 l--------
+<<<<<<< HEAD
 	     l
 	     l
+=======
+	 l
+	 l
+>>>>>>> branch 'master' of https://github.com/Sutejsandhu/newCS10.git
 l--------
  -------
 l
 l
 l--------
+<<<<<<< HEAD
 	     l
 	     l
+=======
+	 l
+	 l
+>>>>>>> branch 'master' of https://github.com/Sutejsandhu/newCS10.git
 l--------
 
  
