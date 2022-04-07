@@ -47,7 +47,7 @@ public class assign6
 /* Screen Dump
  
 Hello, your name is Sutej Sandhu, you are currently in grade 10 at Crescent 
-heigths. Your favourite hobby is soccer.
+Heights. Your favourite hobby is soccer.
 
  
  */
