@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class assign8 
 {
  public static void main(String args[])
-    {
+    {//
        Scanner userinput = new Scanner(System.in);
        System.out.println("Enter three digits: ");
        int digit = userinput.nextInt();
