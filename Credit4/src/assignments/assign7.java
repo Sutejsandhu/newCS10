@@ -10,7 +10,6 @@ Course: Computer Science 10
 
 */
 
-
 package assignments;
 
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 /*
 
-Program: Assignment6.java          Date: April 7, 2022
+Program: assign6.java          Date: April 7, 2022
 
 
 Author: Sutej Sandhu

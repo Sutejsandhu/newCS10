@@ -28,15 +28,15 @@ public class assign9
        
        System.out.println("Enter a second integer: ");
     
-       int integer2 = userinput.nextInt();
+       int integer2   =   userinput.nextInt();
     
-       int answer1 = (integer1 / integer2);
+       int answer1  =   (integer1 / integer2);
        
-       int answer2 =(integer1 % integer2);
+       int answer2  =  (integer1 % integer2);
        
-       int answer3 =(integer2 / integer1);
+       int answer3  =  (integer2 / integer1);
        
-       int answer4 =(integer2 % integer1);
+       int answer4   =   (integer2 % integer1);
       
        System.out.print(integer1);
        System.out.print(" / ");
@@ -69,14 +69,15 @@ public class assign9
 
 /* Screen Dump
  
-Enter an integer: 
-10
-Enter a second integer: 
-8
-10 / 8 = 1
+ Enter an integer: 
+14
+Enter  a second integer: 
+4
+10 / 8 = 3
 10 % 8 = 2
 8 / 10 = 0
-8 % 10 = 0
+8 % 10 = 4
+
 
  
  */
