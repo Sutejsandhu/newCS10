@@ -47,4 +47,8 @@ Enter an integer:
 -123451591
 Your integer -123451591 is odd
 
+Enter an integer: 
+512412
+Your integer 512412 is even!
+
  */
