@@ -47,5 +47,8 @@ Enter an integer:
 -123451591
 Your integer -123451591 is odd
 
+Enter an integer: 
+421
+Your integer 421 is odd
 
  */
