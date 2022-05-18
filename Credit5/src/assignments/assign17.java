@@ -93,6 +93,10 @@ Enter another gpa, or type -1 to leave:
 125
 This GPA doesn't exist.
 Enter another gpa, or type -1 to leave:
+Enter your GPA or type -1 to exit the program: 
+3.4
+Sorry, you did not qualify for an honors distinction.
+Enter another gpa, or type -1 to leave:
 
 
 
