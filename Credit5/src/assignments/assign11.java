@@ -73,12 +73,12 @@ public class assign11
 /* Screen Dump
  
 Please enter any three digit number: 
-569
-The greatest number is: 9
-The smallest number is: 5
-The sum of the 3 digits are: 20
-The product of the 3 digits are: 270
-The average of the 3 digits are: 6
+281
+The greatest number is: 8
+The smallest number is: 1
+The sum of the 3 digits are: 11
+The product of the 3 digits are: 16
+The average of the 3 digits are: 3
 
  
  */
